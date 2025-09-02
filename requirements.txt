@@ -20,7 +20,6 @@ filelock==3.19.1
 Flask==3.1.2
 frozenlist==1.7.0
 fsspec==2025.7.0
--e git+https://github.com/entbappy/End-to-end-Medical-Chatbot-Generative-AI.git@c20769f6ed2a0dacf21bccf2d346b0f4e287e838#egg=Generative_AI_Project
 googleapis-common-protos==1.70.0
 greenlet==3.2.4
 grpcio==1.74.0
@@ -116,3 +115,4 @@ Werkzeug==3.1.3
 wrapt==1.17.3
 yarl==1.20.1
 zstandard==0.24.0
+-e .
